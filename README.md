@@ -1,14 +1,11 @@
-# Documentation of the unit's 
+# Documentation of the Project
 
-## Solution explanation
 
 ## Objective of the work:
 
 The objective of the exercise was to create an interactive application using Python with a pose classifier and a half pipe for hand detection in the system, to then communicate with Unity and be able to send it information to create a customized experience, in this case to make a 5 combinacion Rock, paper and scissors.
 
-## Mathematical concepts:
-
-The particles were used in 2 scenarios:
+## How to Use it:
 
 1. Execute the main, taking into account that it is executed in the same folder called classifier, where it has the coordinates of the poses of the combinations and the code for detecting the hands, the main(1) is executed and it is verified that everything is working: you can see it when doing poses with your hand and a red text at the top will say what pose it is.
 
