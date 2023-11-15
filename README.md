@@ -51,7 +51,7 @@ while cap.isOpened():
                     cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 ```
 2. Open Unity and Play, if this doest work please check the UDP port and address that the Python code its sending the data:
-```python
+```c#
 
     private void ReceiveData()
     {
